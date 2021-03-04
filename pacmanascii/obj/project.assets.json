@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/theo/Documents/pacman/pacmanascii/pacmanascii/pacmanascii.csproj",
+      "projectUniqueName": "/Users/theo/Documents/git/pacman/pacmanascii/pacmanascii/pacmanascii.csproj",
       "projectName": "pacmanascii",
-      "projectPath": "/Users/theo/Documents/pacman/pacmanascii/pacmanascii/pacmanascii.csproj",
+      "projectPath": "/Users/theo/Documents/git/pacman/pacmanascii/pacmanascii/pacmanascii.csproj",
       "packagesPath": "/Users/theo/.nuget/packages/",
-      "outputPath": "/Users/theo/Documents/pacman/pacmanascii/pacmanascii/obj/",
+      "outputPath": "/Users/theo/Documents/git/pacman/pacmanascii/pacmanascii/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/theo/.nuget/NuGet/NuGet.Config"
