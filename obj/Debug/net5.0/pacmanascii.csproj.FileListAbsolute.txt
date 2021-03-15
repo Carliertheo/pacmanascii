@@ -13,3 +13,4 @@
 /Users/theo/Documents/git/pacman/pacmanascii/pacmanascii/obj/Debug/net5.0/ref/pacmanascii.dll
 /Users/theo/Documents/git/pacman/pacmanascii/pacmanascii/obj/Debug/net5.0/pacmanascii.pdb
 /Users/theo/Documents/git/pacman/pacmanascii/pacmanascii/obj/Debug/net5.0/pacmanascii.genruntimeconfig.cache
+D:\pacman\pacmanascii\obj\Debug\net5.0\pacmanascii.pdb
